@@ -1,5 +1,4 @@
 import React from 'react';
-import useSound from 'use-sound'
 import { BeatLoader } from 'react-spinners';
 import Section from './Section';
 
